@@ -26,3 +26,6 @@ This web application is an online auction app that allows user to upload their v
 Admin Panel
 Open a browser and go to URL “http://localhost/pro/admin/”
 then enter usename = 1234    Password = 1234
+
+
+*****************AA1806,AA2174, AA2029,AA1904,AA1665*******************
